@@ -78,9 +78,8 @@ ul li::before{
     height: 28px;
     width: 28px;
     border-radius: 50%;
-    background-image: url(./imae/unceaked.png
-
-    );
+    background-image: url(./image/uncheaked.png
+);
     background-size: cover;
     background-position: center;
     top: 10px;
@@ -92,7 +91,7 @@ ul li.ceaked{
 }
 
 ul li.ceaked::before{
-    background-image: url(./imae/ceakED.png);
+    background-image: url(./image/cheakED.png);
 }
 ul li span{
   position: absolute;
